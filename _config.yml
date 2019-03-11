@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 942972210@qq.com 
 description: ""
 keyword: ""
-url: "https://kingqh.github.io"              # your host, for absolute URL
+url: "http://119.28.30.121"              # your host, for absolute URL
 baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -32,7 +32,9 @@ anchorjs: true                          # if you want to customize anchor. check
 
 # Gems
 # from PR#40, to support local preview for Jekyll 3.0
-gems: [jekyll-paginate]
+#gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
 
 
 
@@ -69,7 +71,7 @@ ga_domain: kingqh.cn
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-qh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -77,7 +79,7 @@ sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in
 featured-tags: true                     # whether or not using Feature-Tags
 featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
 
-
+host: 0.0.0.0
 
 # Friends
 friends: [
