@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 942972210@qq.com 
 description: ""
 keyword: ""
-url: "http://119.28.30.121"              # your host, for absolute URL
+url: "https://kingqh.github.io"              # your host, for absolute URL
 baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
