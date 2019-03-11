@@ -5,9 +5,7 @@ date:       2019-03-11
 author:     "Kingqh"
 header-img: "img/post-bg-unix-linux.jpg"
 tags:
-    - Netconf
     - ODL
-    - Yang
 ---
 
 # 基于ODL的NETCONF分布式下发工程实现 #
