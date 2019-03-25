@@ -3,7 +3,7 @@ layout:     post
 title:      "基于ODL的NETCONF分布式下发工程实现"
 date:       2019-03-11
 author:     "Kingqh"
-header-img: "img/post-bg-unix-linux.jpg"
+header-img: "img/post-bg-odl.jpg"
 tags:
     - ODL
 ---
