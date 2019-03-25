@@ -3,7 +3,7 @@ layout:     post
 title:      "一个Netconf问题解决"
 date:       2019-03-25
 author:     "Kingqh"
-header-img: "img/post-bg-odl.jpg"
+header-img: "img/post-bg-odl-structure.jpg"
 tags:
     - ODL
 ---
