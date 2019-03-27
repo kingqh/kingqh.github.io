@@ -70,7 +70,7 @@ ga_domain: kingqh.cn
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
+sidebar-about-description: "编写 Java 开发包都是一群神人，拿 Java 源码来分析问题，我们无疑站在了巨人的肩膀上。所谓站得高，尿的远也。当然，所谓偷拍都是避免不了的。"
 sidebar-avatar: /img/avatar-qh.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -85,18 +85,12 @@ host: 0.0.0.0
 friends: [
     {
         title: "Kingqh Blog",
-        href: "https://kingqh.github.io"
+        href: "http://kingqh.cn"
     },{
-        title: "Foo",
-        href: "#"
+        title: "张戈博客",
+        href: "https://zhang.ge/"
     },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
+        title: "纯洁的微笑",
+        href: "http://www.ityouknow.com"
     }
 ]
