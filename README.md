@@ -1,9 +1,12 @@
-# HuxBlog Boilerplate
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+在 _post 目下创建自己的文章
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
+然后
 
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
+jekyll build
 
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+重新打包文件，生成的文档放在 _site 目录下
+
+将 _site 拷贝的httpd对应的服务目录下
+
+cp -r ~/code/github/kingqh.github.io/_site/* .
