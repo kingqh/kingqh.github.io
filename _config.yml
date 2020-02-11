@@ -1,6 +1,6 @@
 # Site settings
-title: Kingqh Blog
-SEOTitle: 邱恒的博客 | Kingqh Blog
+title: Kingqh Nest
+SEOTitle: 邱恒的小窝 | Kingqh Nest
 header-img: img/home-bg.jpg
 email: 942972210@qq.com 
 description: ""
@@ -87,7 +87,7 @@ friends: [
         title: "Kingqh Blog",
         href: "http://kingqh.cn"
     },{
-        title: "张戈博客",
+        title: "张戈网站",
         href: "https://zhang.ge/"
     },{
         title: "纯洁的微笑",
